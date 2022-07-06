@@ -1,5 +1,6 @@
-### Hi there 👋
+### 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeya)](https://github.com/chaeya)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeya&layout=compact&langs_count=10)](https://github.com/chaeya)
 <!--
 **chaeya/chaeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
