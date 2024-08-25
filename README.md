@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeya&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)](https://github.com/chaeya)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeya&layout=compact&langs_count=10)](https://github.com/chaeya)
+
 <!--
 **chaeya/chaeya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeya&layout=compact&langs_count=10)](https://github.com/chaeya)
 -->
